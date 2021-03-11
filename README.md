@@ -1,2 +1,2 @@
-# react-diagrams
-All component diagrams and data-flow in a react application using draw.io
+# Architecture-diagrams
+Front-end and Back-end architecture diagrams and data-flow using draw.io
